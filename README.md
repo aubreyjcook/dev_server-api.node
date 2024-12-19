@@ -9,3 +9,6 @@ This project is intended to develop a server api in node for general use cases, 
 ## To-dos
 
 1. Select a license.
+2. Send ChatGPT project outline.
+3. Config Node via NPM.
+4. Config Node runner.
