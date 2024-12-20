@@ -16,5 +16,8 @@ This project is intended to develop a server api in node for general use cases, 
 ## Init-Config Log
 
 ```
-$ npm
+PS C:\Users\user\Code\repos\personal\dev_server-api.node> node -v
+v20.15.0
+PS C:\Users\user\Code\repos\personal\dev_server-api.node> npm -v
+10.8.3
 ```
