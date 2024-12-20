@@ -15,7 +15,7 @@ This project is intended to develop a server api in node for general use cases, 
 
 ## Init-Config Log
 
-**Server Init Config**
+**Server Init Config @Hades**
 ```
 PS C:\Users\user\Code\repos\personal\dev_server-api.node> node -v
 v20.15.0
@@ -40,4 +40,5 @@ added 370 packages, and audited 447 packages in 23s
   run `npm fund` for details
 
 found 0 vulnerabilities
+*Non-CLI Config:Package.json updated with dev dependencies.
 ```
